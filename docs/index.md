@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Overview
 permalink: /
 ---
 
