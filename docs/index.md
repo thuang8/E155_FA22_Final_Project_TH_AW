@@ -1,2 +1,7 @@
-# Example Project Portfolio Webpage
+# Project Abstract
 
+
+# Project Motivation
+
+
+# System Block Diagram
