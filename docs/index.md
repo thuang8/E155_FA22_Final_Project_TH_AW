@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Overview
-permalink: /overview/
+permalink: /
 ---
 
 # Project Abstract
