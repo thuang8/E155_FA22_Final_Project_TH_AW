@@ -1,6 +1,7 @@
 ---
+layout: home
 title: Overview
-permalink: /overview
+permalink: /overview/
 ---
 
 # Project Abstract
