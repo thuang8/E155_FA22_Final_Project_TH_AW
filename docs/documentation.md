@@ -10,6 +10,8 @@ permalink: /doc/
 # Source Code Overview
 <!-- This section should include information to describe the organization of the code base and highlight how the code connects. -->
 
+The source code for the project is located in the Github repository [here](../src/).
+
 # Bill of Materials
 <!-- The bill of materials should include all the parts used in your project along with the prices and links.  -->
 
