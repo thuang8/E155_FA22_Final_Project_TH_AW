@@ -17,6 +17,6 @@ The source code for the project is located in the Github repository [here](https
 
 | Item | Part Number | Quantity | Unit Price | Link |
 | ---- | ----------- | ----- | ---- | ---- |
-| Adafruit VL53L0X Time of Flight Distance Sensor |  3317 | 1 | $14.95 |  [link](https://www.adafruit.com/product/3317) |
+| Adafruit 64x64 RGB LED Matrix - 2.5mm Pitch - 1/32 |  3649 | 1 | $54.95 |  [link](https://www.adafruit.com/product/3649) |
 
-**Total cost: $14.95**
+**Total cost: $54.95**
