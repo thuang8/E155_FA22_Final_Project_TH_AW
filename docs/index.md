@@ -5,12 +5,12 @@ permalink: /
 exclude: true
 ---
 
-# Project Abstract
-
-
 <div style="text-align: left">
   <img src="./assets/img/Logo.png" alt="logo" width="100" />
 </div>
+
+# Project Abstract
+
 
 
 # Project Motivation
