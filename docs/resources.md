@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-# References
+## References
 [Oscilloscope Front End Design Talk](https://www.youtube.com/playlist?list=PLzHyxysSubUmxGOMVpiKLxouweh2AAlG1)
 
 [Adafruit LED matrix schematics](https://github.com/esden/led-panel-docs) 
@@ -15,6 +15,6 @@ permalink: /resources/
 
 [Basic Linear Design](https://www.analog.com/media/en/training-seminars/design-handbooks/basic-linear-design/chapter8.pdf)
 
-# Thank You
+## Acknowledgements
 We would like to thank Harvey Mudd College Professor Josh Brake and Professor Daniel Contreras for their continuous support throughout the duration of this project.
 
