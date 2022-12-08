@@ -16,8 +16,8 @@ The source code for the project is located in the Github repository [here](https
 | Item | Part Number | Quantity | Unit Price | Link |
 | ---- | ----------- | ----- | ---- | ---- |
 | Adafruit 64x64 RGB LED Matrix - 2.5mm Pitch - 1/32 |  3649 | 1 | $54.95 |  [link](https://www.adafruit.com/product/3649) |
-| STM32L432KC MCU |  N/A | 2 | N/A |  N/A |
-| UPduino v3.1 FPGA |  N/A | 2 | N/A |  N/A |
+| STM32L432KC MCU |  N/A | 1 | N/A |  N/A |
+| UPduino v3.1 FPGA |  N/A | 1 | N/A |  N/A |
 | TL084 FET-Input Operational Amplifiers |  TL084 | 1 | N/A |  [link](https://www.ti.com/lit/ds/symlink/tl082.pdf?ts=1670252579810&ref_url=https%253A%252F%252Fwww.google.com%252F) |
 | MCP601 Operational Amplifier |  MCP601 | 1 | N/A |  [link](https://ww1.microchip.com/downloads/en/DeviceDoc/21314g.pdf) |
 | 4 Position DIP Switch |  N/A | 2 | N/A |  N/A |
