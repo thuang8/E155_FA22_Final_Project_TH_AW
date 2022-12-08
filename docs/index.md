@@ -10,6 +10,7 @@ exclude: true
   <img src="./assets/img/Logo.png" alt="logo" width="100" />
 </div>
 
+<n>
 <div style="text-align: center">
   <img src="./assets/img/scope.jpg" alt="logo" width="800" />
 </div>
@@ -24,5 +25,5 @@ The team was motivated to uncover the complexities of an oscilloscope. Oscillosc
 # System Block Diagram
 
 <div style="text-align: center">
-  <img src="./assets/schematics/block_diagram.png" alt="logo" width="300" />
+  <img src="./assets/schematics/block_diagram.png" alt="system" width="800" />
 </div>
