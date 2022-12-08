@@ -6,8 +6,8 @@ permalink: /mcudesign/
 The primary goal of the microcontroller in this project is to convert an analog signal into a digital signal that can be read and processed by the FPGA. This was possible by using one of two onboard ADCs on the STM32L432KC which performed 6 bit resolution conversions per sample. 
 
 ## MCU Block Diagram
-<div style="text-align: left">
-  <img src="./assets/img/mcu_block.PNG" alt="logo" width="300" />
+<div style="text-align: center">
+  <img src="./assets/img/mcu_block.PNG" alt="logo" width="500" />
 </div>
 
 # ADC & TIMER Peripherals
