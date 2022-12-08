@@ -38,5 +38,5 @@ The SPI data on the flops first reaches the coordinate mapping combinational log
 
 ### Colshift FSM
 <div style="text-align: center">
-  <img src="./assets/schematics/colshift_fsm.png" alt="displaymodule" width="400" />
+  <img src="../assets/schematics/colshift_fsm.png" alt="displaymodule" width="400" />
 </div>

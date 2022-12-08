@@ -11,7 +11,7 @@ Unforunately, the scope suffers from aliasing. This is not a problem with the FP
 
 The LED matrix's lack of a datasheet or timing diagrams makes hardware development tricky. However, there are a pleathora of online resources, which aided the process.
 
-The early design decision made for the FPGA code also proved to be a challenge. The emphasis on modularity resulted in a bloated design that could have been achieved with fewer state machines and fewer connecting wires.
+The early design decision made for the FPGA code also proved to be a challenge. The emphasis on modularity resulted in a bloated design that could have been achieved with fewer state machines and fewer connecting wires. 
 
 
 
