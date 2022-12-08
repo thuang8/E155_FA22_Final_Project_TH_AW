@@ -11,7 +11,11 @@ permalink: /doc/
 The source code for the project is located in the Github repository [here](https://github.com/ACWright256/MicroPsFinalProject).
 
 # New Hardware
-
+The new piece of hardware for this project is the Adafruit LED matrix. This hardware is controllable by shifting RGB channel data through two row pins and into the LED matrix shift registers. A LATCH signal must be asserted afterwards to push the bits from the shift register to the matrix row. An OE (output enable) is then asserted to wipe the screen and control brightness. The timing diagram for this transaction is below.
+<div style="text-align: center">
+  <img src="../assets/schematics/led_matrix_timing.png" alt="ledmatrix" width="800" />
+</div>
+The new Microcontroller peripheral is the ADC, which converts the analog signal to a digital signal. 
 
 # Bill of Materials
 <!-- The bill of materials should include all the parts used in your project along with the prices and links.  -->

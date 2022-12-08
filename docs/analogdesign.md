@@ -7,7 +7,7 @@ permalink: /analogdesign/
 
 # Analog Circuit Design
 <div style="text-align: center">
-  <img src="../assets/schematics/analog.png" alt="fpgaoverview" width="800" />
+  <img src="../assets/schematics/analog.png" alt="analogdesign" width="800" />
 </div>
 
 The goals of the analog front end are to provide an antialiasing filter, signal amplification, signal attenuation, signal offset, and time scaling. The analog front end contains a main circuit, and a probe. The probe is a hand-made shielded cable that elminates magnetic disturbances on the input signal wire.
