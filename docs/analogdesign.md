@@ -3,12 +3,17 @@ layout: page
 title: Analog Circuit Design
 permalink: /analogdesign/
 ---
+<div style="text-align: center">
+  <img src="../assets/schematics/analog.png" alt="analogdesign" width="800" />
+</div>
+
 The goals of the front end analog circuitry are to provide an antialiasing filter, signal amplification, signal attenuation, signal offset, and time scaling. The analog front end contains a main circuit, and a probe. The probe is a hand-made shielded cable that elminates magnetic disturbances on the input signal wire.
 
 The analog circuit contains 5 main stages: the Sallen-Key low-pass filter, the amplifier, the attenuator, the offsetter, and the unity gain buffer.
 
+## Final Circuitry
 <div style="text-align: center">
-  <img src="../assets/schematics/analog.png" alt="analogdesign" width="800" />
+  <img src="../assets/schematics/final_circuit.png" alt="analogdesign" width="800" />
 </div>
 
 
@@ -35,10 +40,8 @@ Op amp rail hysteresis was a problem the team encountered when adding the unity 
 ## The Probe
 Initially, the probe was designed in accordance to traditional oscilloscope probe schematics. However, under testing, the probe behaved like a low pass filter, and attenuated desired signals. Due to time limitations, the decision was made to elminitate the probe circuitry, and convert the probe into a shielded cable. 
 
+## Prototype Circuitry
 <div style="text-align: center">
   <img src="../assets/schematics/prototype_circuit.png" alt="analogdesign" width="800" />
 </div>
 
-<div style="text-align: center">
-  <img src="../assets/schematics/final_circuit.png" alt="analogdesign" width="800" />
-</div>
