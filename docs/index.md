@@ -11,7 +11,6 @@ exclude: true
 </div>
 
 <n></n>
-</n>
 <div style="text-align: center">
   <img src="./assets/img/scope.jpg" alt="logo" width="800" />
 </div>
