@@ -10,7 +10,7 @@ exclude: true
   <img src="./assets/img/Logo.png" alt="logo" width="100" />
 </div>
 
-<n>
+<n></n>
 <div style="text-align: center">
   <img src="./assets/img/scope.jpg" alt="logo" width="800" />
 </div>
@@ -21,7 +21,7 @@ Oscilloscopes and analog signal measurement tools are an essential part of elect
 
 # Project Motivation
 The team was motivated to uncover the complexities of an oscilloscope. Oscilloscopes are a tool that we both use extensively and as a fundamental piece of electronic technology, we realized that we have taken it for granted. In this project we wanted to honor oscilloscopes by gaining a deep understanding of the electronics behind the technology and translate that knowledge into a tangible product. On this website you can follow our one month learning journey!
-<n>
+<n></n>
 
 # System Block Diagram
 
