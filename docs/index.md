@@ -18,6 +18,6 @@ The team was motivated to uncover the complexities of an oscilloscope. Oscillosc
 
 # System Block Diagram
 
-<div style="text-align: left">
-  <img src="./assets/img/hmc_logo.png" alt="logo" width="100" />
+<div style="text-align: center">
+  <img src="./assets/img/block_diagram.png" alt="logo" width="300" />
 </div>
