@@ -17,7 +17,3 @@ The early design decision made for the FPGA code also proved to be a challenge. 
 
 # Demo
 
-<iframe width="320" height="240"
-src="https://drive.google.com/file/d/1SokftunS2dJF_b-serZBoazC9LO9ijvR/view?usp=sharing">
-</iframe>
-
