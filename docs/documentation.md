@@ -10,6 +10,9 @@ permalink: /doc/
 
 The source code for the project is located in the Github repository [here](https://github.com/ACWright256/MicroPsFinalProject).
 
+# New Hardware
+
+
 # Bill of Materials
 <!-- The bill of materials should include all the parts used in your project along with the prices and links.  -->
 
