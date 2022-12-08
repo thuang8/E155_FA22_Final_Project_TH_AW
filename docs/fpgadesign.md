@@ -16,12 +16,12 @@ The SPI data on the flops first reaches the coordinate mapping combinational log
 ## FPGA Schematics and Block Diagrams
 ### Top Level Schematics
 <div style="text-align: center">
-  <img src="./assets/schematics/FPGA_overview.png" alt="fpgaoverview" width="400" />
+  <img src="/assets/schematics/FPGA_overview.png" alt="fpgaoverview" width="400" />
 </div>
 
 ### Display module
 <div style="text-align: center">
-  <img src="./assets/schematics/display_module.png" alt="displaymodule" width="800" />
+  <img src="/assets/schematics/display_module.png" alt="displaymodule" width="800" />
 </div>
 
 ## FPGA Finite State Machines
