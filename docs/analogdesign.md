@@ -14,10 +14,10 @@ The analog circuit contains 5 main stages: the Sallen-Key low-pass filter, the a
 
 ## Sallen-Key filter
 The Sallen-Key filter is configured with a corner frequency of 100 kHz. Ideally, this stage should prevent signal aliasing. 
-However, the last-minute inclusion of time divisions means that the filter is insufficient for lower sampling rates. Because the corner frequency is fixed, noise below 100khz but above the sampling rate can still cause aliasing.
+However, the last-minute inclusion of discrete time divisions means that the filter is insufficient for lower sampling rates. Because the corner frequency is fixed, noise below 100khz but above the sampling rate can still cause aliasing.
 
 ## Amplifier
-The amplifier stage is modeled after a guitar amplifier circuit that contains a potentiometer for gain factor adjustments. This amplifier circuit is configured in a non-inverting topology, which eliminates possible phase shift issues.
+The amplifier stage is modeled after a guitar amplifier circuit that contains a potentiometer for gain factor adjustments. This amplifier circuit is configured in a non-inverting topology, which eliminates possible complex phase shift issues.
 
 ## Attenuator
 The attenuator stage is a variable voltage divider connected to an op amp in unity gain negative feedback. The purpose of the op amp is to prevent loading between circuit stages.
@@ -34,3 +34,11 @@ Op amp rail hysteresis was a problem the team encountered when adding the unity 
 
 ## The Probe
 Initially, the probe was designed in accordance to traditional oscilloscope probe schematics. However, under testing, the probe behaved like a low pass filter, and attenuated desired signals. Due to time limitations, the decision was made to elminitate the probe circuitry, and convert the probe into a shielded cable. 
+
+<div style="text-align: center">
+  <img src="../assets/schematics/prototype_circuit.png" alt="analogdesign" width="800" />
+</div>
+
+<div style="text-align: center">
+  <img src="../assets/schematics/final_circuit.png" alt="analogdesign" width="800" />
+</div>
