@@ -14,5 +14,4 @@ The LED matrix's lack of a datasheet or timing diagrams makes hardware developme
 The early design decision made for the FPGA code also proved to be a challenge. The emphasis on modularity resulted in a bloated design that could have been achieved with fewer state machines and fewer connecting wires. 
 
 
-
 # Demo

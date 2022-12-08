@@ -10,7 +10,7 @@ permalink: /analogdesign/
   <img src="../assets/schematics/analog.png" alt="fpgaoverview" width="800" />
 </div>
 
-The goals of the analog front-end are to provide an antialiasing filter, signal amplification, signal attenuation, signal offset, and time scaling. The analog front end contains a main circuit, and a probe. The probe is a hand-made shielded cable that elminates magnetic disturbances on the input signal wire.
+The goals of the analog front end are to provide an antialiasing filter, signal amplification, signal attenuation, signal offset, and time scaling. The analog front end contains a main circuit, and a probe. The probe is a hand-made shielded cable that elminates magnetic disturbances on the input signal wire.
 
 The analog circuit contains 5 main stages: the Sallen-Key low-pass filter, the amplifier, the attenuator, the offsetter, and the unity gain buffer.
 
