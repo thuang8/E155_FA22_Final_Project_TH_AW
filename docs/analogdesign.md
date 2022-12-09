@@ -11,12 +11,6 @@ The goals of the front end analog circuitry are to provide an antialiasing filte
 
 The analog circuit contains 5 main stages: the Sallen-Key low-pass filter, the amplifier, the attenuator, the offsetter, and the unity gain buffer.
 
-## Final Circuitry
-<div style="text-align: center">
-  <img src="../assets/schematics/final_circuit.jpg" alt="analogdesign" width="800" />
-</div>
-
-
 ## Sallen-Key filter
 The Sallen-Key filter is configured with a corner frequency of 100 kHz. Ideally, this stage should prevent signal aliasing. 
 However, the last-minute inclusion of discrete time divisions means that the filter is insufficient for lower sampling rates. Because the corner frequency is fixed, noise below 100khz but above the sampling rate can still cause aliasing.
@@ -40,8 +34,12 @@ Op amp rail hysteresis was a problem the team encountered when adding the unity 
 ## The Probe
 Initially, the probe was designed in accordance to traditional oscilloscope probe schematics. However, under testing, the probe behaved like a low pass filter, and attenuated desired signals. Due to time limitations, the decision was made to elminitate the probe circuitry, and convert the probe into a shielded cable. 
 
-## Prototype Circuitry
+## Final & Prototype Circuitry
 <div style="text-align: center">
-  <img src="../assets/schematics/prototype_circuit.jpg" alt="analogdesign" width="800" />
+  <img src="../assets/schematics/final_circuit.jpg" alt="analogdesign" width="500" />
+</div>
+
+<div style="text-align: center">
+  <img src="../assets/schematics/prototype_circuit.jpg" alt="analogdesign" width="500" />
 </div>
 
