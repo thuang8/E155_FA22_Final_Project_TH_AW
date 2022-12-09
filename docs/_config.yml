@@ -5,6 +5,7 @@ theme: minima
 
 header-pages:
   - documentation.html
+  - results.html
   - resources.html
 
 
