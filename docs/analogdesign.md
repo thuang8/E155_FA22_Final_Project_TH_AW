@@ -34,11 +34,12 @@ Op amp rail hysteresis was a problem the team encountered when adding the unity 
 ## The Probe
 Initially, the probe was designed in accordance to traditional oscilloscope probe schematics. However, under testing, the probe behaved like a low pass filter, and attenuated desired signals. Due to time limitations, the decision was made to elminitate the probe circuitry, and convert the probe into a shielded cable. 
 
-## Final & Prototype Circuitry
+## Final Circuitry
 <div style="text-align: center">
   <img src="../assets/schematics/final_circuit.jpg" alt="analogdesign" width="500" />
 </div>
 
+## Prototype Circuitry
 <div style="text-align: center">
   <img src="../assets/schematics/prototype_circuit.jpg" alt="analogdesign" width="500" />
 </div>
