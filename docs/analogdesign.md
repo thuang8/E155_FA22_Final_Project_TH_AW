@@ -13,7 +13,7 @@ The analog circuit contains 5 main stages: the Sallen-Key low-pass filter, the a
 
 ## Final Circuitry
 <div style="text-align: center">
-  <img src="../assets/schematics/final_circuit.jpg" alt="analogcircuit" width="800" />
+  <img src="../assets/schematics/final_circuit.jpg" alt="analogdesign" width="800" />
 </div>
 
 
@@ -42,6 +42,6 @@ Initially, the probe was designed in accordance to traditional oscilloscope prob
 
 ## Prototype Circuitry
 <div style="text-align: center">
-  <img src="../assets/schematics/prototype_circuit.jpg" alt="analogproto" width="800" />
+  <img src="../assets/schematics/prototype_circuit.jpg" alt="analogdesign" width="800" />
 </div>
 
