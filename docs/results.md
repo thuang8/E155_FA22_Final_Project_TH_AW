@@ -9,6 +9,8 @@ The LED matrix displays analog signals as expected. The knobs and switches on th
 
 Unforunately, the scope suffers from aliasing. This is not a problem with the FPGA, ADC, or MCU, but is rather a flaw with the front end analog circuitry. Because the time division functionality is a last-minute addition, the low-pass filter was not designed with the ability to switch corner frequencies. 
 
+The discrete time divisions are implemented using dip switches that are
+
 The LED matrix's lack of a datasheet or timing diagrams makes hardware development tricky. However, there are a pleathora of online resources, which aided the process.
 
 The early design decision made for the FPGA code also proved to be a challenge. The emphasis on modularity resulted in a bloated design that could have been achieved with fewer state machines and fewer connecting wires. 
